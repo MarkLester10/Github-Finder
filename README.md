@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Finder
 
-You can use the [editor on GitHub](https://github.com/MarkLester10/Github-Finder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a simple project as part of my javascript challenge for myself #100DaysOfCode #DeepDiveVanillaJS, it helps you find users from github, their latest repos and more..
 
 ## Demo Link
 
